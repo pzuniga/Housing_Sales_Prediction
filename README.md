@@ -1,10 +1,10 @@
 # Housing_Sales_Prediction
 
-![Diapositiva1](https://user-images.githubusercontent.com/106708017/195762090-1d1cd7fc-7841-4ac3-815e-381604b6eaf0.JPG)
-![Diapositiva2](https://user-images.githubusercontent.com/106708017/195762092-6f090630-56fc-449f-b009-181af7564b7e.JPG)
-![Diapositiva3](https://user-images.githubusercontent.com/106708017/195762094-d6e66396-ef90-4df6-ac5a-f904a33df8a7.JPG)
-![Diapositiva4](https://user-images.githubusercontent.com/106708017/195762096-0feb99e5-71bf-4b11-b080-65f9a498b8d5.JPG)
-![Diapositiva5](https://user-images.githubusercontent.com/106708017/195762098-d951fb72-2106-43c9-ab4d-8bfd47b8eb9c.JPG)
-![Diapositiva6](https://user-images.githubusercontent.com/106708017/195762100-db24b290-651f-4bdd-b118-a7019a9c9723.JPG)
-![Diapositiva7](https://user-images.githubusercontent.com/106708017/195762101-a3fd84a2-8f3e-439c-af0e-d94b95e90613.JPG)
-![Diapositiva8](https://user-images.githubusercontent.com/106708017/195762103-2298242f-4c05-42b0-a9cc-0eeb81516587.JPG)
+![Diapositiva1](https://user-images.githubusercontent.com/106708017/195945371-e064b816-fc09-4a80-ad08-73f85a6a67bd.JPG)
+![Diapositiva2](https://user-images.githubusercontent.com/106708017/195945380-a8e4a684-ee16-406a-9dfb-0d219439251f.JPG)
+![Diapositiva3](https://user-images.githubusercontent.com/106708017/195945382-7cf8182d-1533-4288-a337-83ecf5d23198.JPG)
+![Diapositiva4](https://user-images.githubusercontent.com/106708017/195945384-c8c49081-023f-4c26-820f-e18273710956.JPG)
+![Diapositiva5](https://user-images.githubusercontent.com/106708017/195945386-b8816770-855c-4dd6-8711-9bd21cfc789a.JPG)
+![Diapositiva6](https://user-images.githubusercontent.com/106708017/195945388-54ed638f-f107-48e9-a0bc-1523727e5dd0.JPG)
+![Diapositiva7](https://user-images.githubusercontent.com/106708017/195945392-b8eea189-4ba8-4120-b2cd-d81d846d5ac9.JPG)
+![Diapositiva8](https://user-images.githubusercontent.com/106708017/195945396-797e4b5e-cea6-43e7-b7c3-4553a245261a.JPG)
